@@ -1,0 +1,98 @@
+.env.example
+  h_a5ff85794783c2 1-13
+.gitignore
+  h_a5ff85794783c2 1-36
+.npmrc
+  h_a5ff85794783c2 1
+README.md
+  h_a5ff85794783c2 1-5
+app/dashboard/customers/page.tsx
+  h_a5ff85794783c2 1-3
+app/dashboard/invoices/page.tsx
+  h_a5ff85794783c2 1-3
+app/dashboard/layout.tsx
+  h_a5ff85794783c2 1-12
+app/dashboard/page.tsx
+  h_a5ff85794783c2 1-3
+app/layout.tsx
+  h_a5ff85794783c2 1-14
+app/lib/data.ts
+  h_a5ff85794783c2 1-218
+app/lib/definitions.ts
+  h_a5ff85794783c2 1-88
+app/lib/placeholder-data.ts
+  h_a5ff85794783c2 1-147
+app/lib/utils.ts
+  h_a5ff85794783c2 1-69
+app/page.tsx
+  h_a5ff85794783c2 1-54
+app/query/route.ts
+  h_a5ff85794783c2 1-26
+app/seed/route.ts
+  h_a5ff85794783c2 1-117
+app/ui/acme-logo.tsx
+  h_a5ff85794783c2 1-13
+app/ui/button.tsx
+  h_a5ff85794783c2 1-19
+app/ui/customers/table.tsx
+  h_a5ff85794783c2 1-123
+app/ui/dashboard/cards.tsx
+  h_a5ff85794783c2 1-58
+app/ui/dashboard/latest-invoices.tsx
+  h_a5ff85794783c2 1-64
+app/ui/dashboard/nav-links.tsx
+  h_a5ff85794783c2 1-46
+app/ui/dashboard/revenue-chart.tsx
+  h_a5ff85794783c2 1-65
+app/ui/dashboard/sidenav.tsx
+  h_a5ff85794783c2 1-29
+app/ui/fonts.ts
+  h_a5ff85794783c2 1-8
+app/ui/global.css
+  h_a5ff85794783c2 1-18
+app/ui/invoices/breadcrumbs.tsx
+  h_a5ff85794783c2 1-36
+app/ui/invoices/buttons.tsx
+  h_a5ff85794783c2 1-36
+app/ui/invoices/create-form.tsx
+  h_a5ff85794783c2 1-112
+app/ui/invoices/edit-form.tsx
+  h_a5ff85794783c2 1-123
+app/ui/invoices/pagination.tsx
+  h_a5ff85794783c2 1-119
+app/ui/invoices/status.tsx
+  h_a5ff85794783c2 1-29
+app/ui/invoices/table.tsx
+  h_a5ff85794783c2 1-124
+app/ui/login-form.tsx
+  h_a5ff85794783c2 1-67
+app/ui/search.tsx
+  h_a5ff85794783c2 1-18
+app/ui/skeletons.tsx
+  h_a5ff85794783c2 1-218
+next.config.ts
+  h_a5ff85794783c2 1-7
+package.json
+  h_a5ff85794783c2 1-31
+pnpm-lock.yaml
+  h_a5ff85794783c2 1-2011
+pnpm-workspace.yaml
+  h_a5ff85794783c2 1-9
+postcss.config.js
+  h_a5ff85794783c2 1-6
+tailwind.config.ts
+  h_a5ff85794783c2 1-32
+tsconfig.json
+  h_a5ff85794783c2 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f3ab4018cd0c0ef1bac2281fac7c2e7278aed0a7",
+  "prompts": {},
+  "humans": {
+    "h_a5ff85794783c2": {
+      "author": "scoobs-mystery-bytes <15992407+scoobs-mystery-bytes@users.noreply.github.com>"
+    }
+  }
+}
